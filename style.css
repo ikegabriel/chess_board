@@ -1,0 +1,23 @@
+body{
+    padding: 100px;
+    background-color: rgb(32, 19, 2);
+}
+.container{
+    border: 20px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    border-style: ridge;
+}
+.inner_container{
+    border: 10px solid rgb(204, 118, 47);
+}
+td{
+    width: 200px;
+    height: 200px;
+    
+}
+#white{
+    background-color: rgb(255, 224, 179);
+}
+#black{
+    background-color: rgb(172, 91, 24);
+}
